@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <transport id="1" type="Bus">
+        <comfortability>Its okay</comfortability>
+        <price currency="ZL">2</price>
+        <availability>available everywhere</availability>
+        <waiting unit="minutes">5-10</waiting>
+    </transport>
+    <transport id="2" type="RentableScooter">
+        <comfortability>Not the best</comfortability>
+        <price currency="ZL">20-30</price>
+        <availability>available almost everywhere</availability>
+        <waiting unit="minutes">no waitinig</waiting>
+    </transport>
+    <transport id="3" type="Taxi">
+        <comfortability>Comfortable</comfortability>
+        <price currency="ZL">5-50</price>
+        <availability>not an everyday transport</availability>
+        <waiting unit="minutes">2-5</waiting>
+    </transport>
+</transport>

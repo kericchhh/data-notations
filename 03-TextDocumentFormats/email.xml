@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+     <name>John Doe</name>   
+     <email>johndoe@something.com</email>
+    </sender>
+    <recipient>
+        <name>Bruce Wayne</name>
+        <email>batman@gmail.com</email>
+    </recipient>
+    <subject>Whats up</subject>
+    <message>Hey bla bla bla</message>
+</email>
