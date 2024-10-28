@@ -1,0 +1,2 @@
+# Michael Jackson(MJ)
+![MJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMichaelJackson%2Fcomments%2F15hqoe1%2Fwhich_artists_could_be_as_big_as_mj_today%2F&psig=AOvVaw1d02Qo5JZMs-OgK1FNhYSR&ust=1730209133562000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNC5zbOZsYkDFQAAAAAdAAAAABAR)
