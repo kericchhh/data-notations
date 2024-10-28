@@ -1,0 +1,9 @@
+{
+"Passengers name": "John John",
+"Ticket class": "Economy",
+"Origin": "Krakow",
+"Destination": "Warsaw",
+"Train": 3,
+"Cabin": 4,
+"Place": 23
+}

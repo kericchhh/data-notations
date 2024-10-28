@@ -53,10 +53,37 @@
             "Outerwear",
             "Accessories"
         ]
-    }
+    },
     {
-        "name": "Pull&Bear"
-
-
+        "name": "Pull&Bear",
+        "founded": 1991,
+        "headquarters": "Naron, Spain",
+        "employees": 55000,
+        "products": [
+            "Streetwear",
+            "Casualwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Bershka",
+        "founded": 1998,
+        "headquarters": "Spain",
+        "employees": 60000,
+        "products": [
+            "Streetwear",
+            "Casualwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Salomon",
+        "founded": 1999,
+        "headquarters": "Annecy, France",
+        "employees": 55000,
+        "products": [
+            "Hiking Clothing",
+            "Hiking Accessories"
+        ]
     }
 ]
