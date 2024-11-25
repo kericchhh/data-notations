@@ -1,0 +1,36 @@
+th {
+    background-color: green;
+}
+
+td {
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 8px solid
+}
+
+tr {
+    width: 20%;
+}
+
+.landmark {
+    width: 25%;
+}
+
+.signific {
+    width: 45%;
+}
+
+tr {
+    color: goldenrod;
+
+}
+
+tr:hover {
+    background-color: grey;
+}
